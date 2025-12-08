@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathsarani Prabodhya.</h1>
 <h3 align="center">Aspiring Data Scientist | Exploring Machine Learning & AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-kangara&label=Profile%20views&color=0e75b6&style=flat" alt="s-kangara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s-kangara&label=Profile%20views&color=0e75b6&style=flat" alt="s-kangara" /> </p>
 
 ---
 
