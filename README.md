@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋,</h1>
+<h1 align="center">Hello!!!👋,</h1>
 <h3 align="center">Aspiring Data Scientist | Exploring Machine Learning & AI</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s-kangara&label=Profile%20views&color=0e75b6&style=flat" alt="s-kangara" /> </p>
