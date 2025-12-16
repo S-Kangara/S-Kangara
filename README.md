@@ -1,8 +1,8 @@
-<h1 align="center">Hello!!!👋,</h1>
+<h1 align="center"> Hello!🙋🏻‍♀️
+  
+Welcome to my GitHub profile...👩🏻‍💻
+,</h1>
 <h3 align="center">Aspiring Data Scientist | Exploring Machine Learning & AI</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=s-kangara&label=Profile%20views&color=0e75b6&style=flat" alt="s-kangara" /> </p>
-
 ---
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👩‍🎓I'm Undergraduate at **Eastern University Sri Lanka,pursuing a degree in Bsc Computer Science**
+- 👩🏻‍🎓I'm Undergraduate at **Eastern University Sri Lanka,pursuing a degree in Bsc Computer Science**
 
 - 📫 How to reach me **prabodhiyakangara@gmail.com**
 
