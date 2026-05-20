@@ -96,7 +96,7 @@ class SKangara:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/K.M.S.P.K.Kangara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-s-p-k-kangara-7245b6335/)
 [![Facebook](https://img.shields.io/badge/Facebook-a78bfa?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/SathsaraniKangara)
 [![Email](https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabodhiyakangara@gmail.com)
 
