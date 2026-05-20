@@ -2,7 +2,7 @@
   
 Welcome to my GitHub profile...👩🏻‍💻
 ,</h1>
-<h3 align="center">Aspiring Data Scientist | Exploring Machine Learning & AI</h3>
+<h3 align="center">Aspiring Data Scientist | Exploring Machine Learning </h3>
 ---
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
