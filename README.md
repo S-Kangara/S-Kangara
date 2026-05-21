@@ -84,7 +84,6 @@ class SKangara:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Kangara&theme=transparent&hide_border=true&layout=compact&title_color=a78bfa&text_color=9d8fc4&bg_color=0d0b1e&border_radius=14" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=S-Kangara&theme=transparent&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=818cf8&sideLabels=9d8fc4&dates=9d8fc4&sideNums=a78bfa&currStreakNum=c084fc" alt="GitHub Streak" />
 
