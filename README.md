@@ -80,17 +80,6 @@ class SKangara:
 
 -----
 
-## ✨ GitHub Stats
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=S-Kangara&theme=transparent&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=818cf8&sideLabels=9d8fc4&dates=9d8fc4&sideNums=a78bfa&currStreakNum=c084fc" alt="GitHub Streak" />
-
-</div>
-
------
-
 ## 🌐 Connect With Me
 
 <div align="center">
