@@ -24,9 +24,8 @@
 class SKangara:
     university = "Eastern University Sri Lanka 🎓"
     degree     = "BSc Computer Science"
-    learning   = ["Data Science", "Machine Learning", "Python 🐍"]
-    building   = ["AI Solutions", "Data Pipelines", "Real-world Projects"]
-    goal       = "Become a Data Scientist 🚀"
+    learning   = ["Network Engineering"]
+    goal       = "Become a network Engineer"
     contact    = "prabodhiyakangara@gmail.com"
 ```
 
@@ -37,9 +36,7 @@ class SKangara:
 | |                                                              |
 |-|--------------------------------------------------------------|
 |🎓|**BSc Computer Science** — Eastern University, Sri Lanka      |
-|🌱|Currently learning **Data Science, Python & Machine Learning**|
-|🤖|Building **AI-based solutions** focused on data analysis      |
-|🔍|Passionate about **problem solving** and analytical thinking  |
+|🌱|Currently learning **Network Engineering**|
 |📫|Reach me: **prabodhiyakangara@gmail.com**                     |
 
 -----
