@@ -10,7 +10,6 @@ class SKangara:
     degree     = "BSc Computer Science"
     learning   = ["CCNA", "Packet Tracer", "Wireshark", "Linux Networking", "AWS VPC"]
     goal       = "Become a Cloud Network Engineer"
-    next_step  = "Network internship (applications from April)"
     contact    = "prabodhiyakangara@gmail.com"
 ```
 
@@ -78,7 +77,7 @@ Each project will have a topology diagram, configs, screenshots and a problems/s
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-s-p-k-kangara-7245b6335/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabodhiyakangara@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer" width="100%" alt="footer"/>
